@@ -1,0 +1,1 @@
+Concurso 1 :{Nombre: er, Fecha: 2000-12-02, Fecha de inscripcion: [desde: 2000-10-02, hasta: 2000-11-02], Tematica: ed, Costo de Inscripcion: 20.0, Inscripciones:[], Premios:[], Criterios:[]}
